@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Define the input JSON file and the base dataset path
-JSON_FILE="dataset_links.json"
-BASE_DIR="/content/dataset"
+JSON_FILE="/content/CS5491_AI_Project_Enhanced_FunSearch/dataset_links.json"
+BASE_DIR="/content/CS5491_AI_Project_Enhanced_FunSearch/dataset"
 
 # 1. Install dependencies if they are missing (Assumes Debian/Ubuntu)
 # We need jq (JSON parser), curl (downloader), and p7zip-full (7z extractor)
